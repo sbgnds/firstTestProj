@@ -1,0 +1,69 @@
+[33mcommit f9927af92a80191b6d8c3376de37d712bd2c8a2e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bogdan Semenov <SemenovBS@gmail.com>
+Date:   Mon Jan 30 21:45:10 2023 +0200
+
+            new file:   hello_ubuntu
+            modified:   test.txt
+
+[33mcommit 948b58af5967706f6607ddecbdf970730f980378[m
+Author: Bogdan Semenov <SemenovBS@gmail.com>
+Date:   Mon Jan 30 21:27:05 2023 +0200
+
+            modified:   test1.txt
+
+[33mcommit 675e270561e5a228a9851ad53f4ab17bb9654cd7[m
+Author: Bogdan Semenov <semenovbs@gmail.com>
+Date:   Sun Jan 1 15:22:40 2023 +0200
+
+            modified:   test1.txt
+
+[33mcommit 71d5c3fb75e39a0fc5fa99abbdb3ab9422ef5086[m
+Author: sbgnds <38492680+sbgnds@users.noreply.github.com>
+Date:   Sun Jan 1 13:54:31 2023 +0200
+
+    Create FromMain
+
+[33mcommit b60178adb4ef0687c5cb0c629745c544e098f14c[m
+Author: Bogdan Semenov <semenovbs@gmail.com>
+Date:   Sun Jan 1 13:53:15 2023 +0200
+
+            modified:   test1.txt
+
+[33mcommit 4252d4515914e424c563569b7b701eb4bce1c40c[m
+Merge: ae7c975 530a7f8
+Author: sbgnds <38492680+sbgnds@users.noreply.github.com>
+Date:   Sun Jan 1 13:50:13 2023 +0200
+
+    Merge pull request #1 from sbgnds/TestBranch1
+    
+    Create fileFromTestBranch
+
+[33mcommit 530a7f88a2e75a18c9025eef43c267d102d328eb[m
+Author: sbgnds <38492680+sbgnds@users.noreply.github.com>
+Date:   Sun Jan 1 13:47:38 2023 +0200
+
+    Create fileFromTestBranch
+
+[33mcommit ae7c97555db71cb409e80898782627798e83b6be[m
+Author: Bogdan Semenov <semenovbs@gmail.com>
+Date:   Sun Jan 1 12:10:21 2023 +0200
+
+            new file:   test1.txt
+
+[33mcommit 11bdefd468d5d1e360770ed02ea71e836d89d828[m
+Author: Bogdan Semenov <semenovbs@gmail.com>
+Date:   Sun Jan 1 12:05:54 2023 +0200
+
+            modified:   README.md
+
+[33mcommit 8c72e57b0d8ac635a8c60c420823fa626d5e00c4[m
+Author: Bogdan Semenov <semenovbs@gmail.com>
+Date:   Sun Jan 1 11:50:18 2023 +0200
+
+            new file:   test.txt
+
+[33mcommit 5517e194b62df2e25dba180149ce20c313e093a9[m
+Author: Bogdan Semenov <semenovbs@gmail.com>
+Date:   Sat Dec 31 20:17:35 2022 +0200
+
+    first commit
